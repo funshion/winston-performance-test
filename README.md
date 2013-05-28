@@ -13,7 +13,7 @@ winston 性能测试
 	
 	coffee winston-performance-test.coffee
 
-## Resluts 
+## Results 
  
 server:　虚拟机 512M内存，1颗CPU（1核）  
  
