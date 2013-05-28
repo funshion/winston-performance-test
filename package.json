@@ -1,0 +1,26 @@
+{
+  "name": "winston-performance-test",
+  "version": "1.0.0",
+  "description": "Winston performance test",
+  "main": "winston-performance-test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PaulVI/winston-performance-test.git"
+  },
+  "keywords": [
+    "Node.js",
+    "winston",
+    "test"
+  ],
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "f07b6bb5c9a0081955d4ebc0f28c52a7b2ed3e37",
+  "dependencies": {
+    "winston": "~0.7.1",
+    "coffee-script": "~1.6.2"
+  }
+}

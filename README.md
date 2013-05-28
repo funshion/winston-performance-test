@@ -6,6 +6,15 @@ https://github.com/flatiron/winston
 
 winston 性能测试
  
+## Preparation
+
+	npm install winston
+	npm install cofee-script
+	
+	coffee winston-performance-test.coffee
+
+## Resluts 
+ 
 server:　虚拟机 512M内存，1颗CPU（1核）
  
 连续写入 100,000条记录 ，每条记录554Bytes
